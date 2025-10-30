@@ -1,1 +1,1 @@
-This is a new file a.txt
+This is a new file created in the repository.
